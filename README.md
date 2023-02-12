@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Purv Joshi</h1>
-<image src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fmanjiro-sano&psig=AOvVaw1sg1SwCEUYncUvdKqOaySK&ust=1676292864888000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNiU3tiDkP0CFQAAAAAdAAAAABAF">
+<image src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fmanjiro-sano&psig=AOvVaw1sg1SwCEUYncUvdKqOaySK&ust=1676292864888000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNiU3tiDkP0CFQAAAAAdAAAAABAF](https://wallpapers.com/images/hd/manjiro-sano-grayscale-hru52p9nqu3blz2d.jpg)">
 <h3 align="center">A passionate frontend and little bit backend developer from India</h3>
 
 <p align="left"> <img src="https://web.archive.org/web/20230101130849/https://komarev.com/ghpvc/?username=purvjoshi04&label=Profile%20views&color=0e75b6&style=flat" alt="purvjoshi04" /> </p>
